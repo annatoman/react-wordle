@@ -1,7 +1,7 @@
 # Wordle Clone in React.js
 
 ## Description
-- Partner project with my classmate Anna Toman where we created a clone of the popular game Wordle using React.js
+Partner project with my classmate Anna Toman where we created a clone of the popular game Wordle using React.js
 - Created 5 different component functions, 1 custom hook and a json file of words and letters. 
 - Functionality includes storing an array of past guesses (each past guess is an array of letter objects, and each object represents a letter in the guess word {letter: 'a', color: 'yellow'}). We also built functionality to color-code each guess letter in both the grid and keypad.
 - Added custom css including keyframe animations to mimic the actual Wordle game
@@ -13,4 +13,7 @@
 - Limitation that only allows the user to play the game once a day if desired
 - Make a themed Wordle for something different and fun!
 
+### Losing Example
 ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTIwNmRiOGZhNTg5NjYxZGRhYmVmMWExOTZmYzllZjQ1OTQwMzYwMCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/XzZNaB7sct3nrJc75t/giphy.gif)
+
+### Winning Example
