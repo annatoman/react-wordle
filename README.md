@@ -12,3 +12,5 @@
 - Instead of json file of words, integrate a backend API of words
 - Limitation that only allows the user to play the game once a day if desired
 - Make a themed Wordle for something different and fun!
+
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTIwNmRiOGZhNTg5NjYxZGRhYmVmMWExOTZmYzllZjQ1OTQwMzYwMCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/XzZNaB7sct3nrJc75t/giphy.gif)
