@@ -17,4 +17,4 @@ Partner project with my classmate Anna Toman where we created a clone of the pop
 ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmRlNzA1YWFiZDk4YzEyZTgzM2I2NTc4MWIyMDQ1MzlkYjUxMDZkMSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/KptdiNSZ3PlcNvbGi2/giphy.gif)
 
 ### Losing Example
-![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmRlNzA1YWFiZDk4YzEyZTgzM2I2NTc4MWIyMDQ1MzlkYjUxMDZkMSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/KptdiNSZ3PlcNvbGi2/giphy.gif)
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2M1YjIwZTJkMWZkNDU3MDZlNzRkNzEzZDAwMjUyMzljZjEyYTU2ZSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/Rc4rkAmQCw5jq3ligS/giphy.gif)
